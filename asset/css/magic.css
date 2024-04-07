@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    color: #00f000;
+
+}
+
+.presentacion{
+    background-color: gold;
+    color: blue;
+    align-items: left;
+}
+
+.prof{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}
+
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+}
+
+h3{
+    text-align: center;
+    background-color: rgb(160, 8, 160);
+    color: white;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+
+}
+
+.pro{
+    display: flex;
+    justify-content: center;
+}
+
+.lin{
+    background-color: rgb(2, 3, 2);
+    color: rgb(226, 250, 9);
+}
